@@ -22,7 +22,7 @@ print("hello")
 
 ![이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz431yZ4IjKOx_ZtPgFKZr3EHl5Ko8V2LJFi9U2klVAB8rnG5c9x4ddmpTsDnUojXK4KK8Y5i21nR-2THUrZFQSaO2oDAjYm08FKxXns2p)
 
-![이미지](images.webp)cd
+![이미지](images.webp)
 
 **굵게**
 
